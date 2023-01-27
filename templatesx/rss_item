@@ -1,0 +1,15 @@
+	<item>
+	
+		<title>[[title]]</title>
+		<guid>[[permalink]]</guid>
+		<link>[[permalink]]</link>
+		<description>[[description]]</description>		
+		<pubDate>[[pubDate]]</pubDate>
+		[[enclosureTag]]		
+		[[itunesDurationTag]]
+		[[itunesSubtitleTag]]
+		[[itunesSummaryTag]]	
+		[[itunesExplicitTag]]	
+		<media:thumbnail url="[[itunesGraphicURL]]" />
+		
+	</item>
