@@ -10,7 +10,7 @@
 
 This episode was recorded 16 May 2013 live and in person at [Omni’s](http://www.omnigroup.com/) lovely offices overlooking Lake Union in Seattle.
 
-You can <a href="http://therecord.co/downloads/TheRecord-s1e5-PaulGoracke.m4a">download the m4a file</a> or <a href="https://itunes.apple.com/us/podcast/the-record/id791861057">subscribe in iTunes</a>. (Or <a href="http://therecord.co/xml/rss.xml">subscribe to the podcast feed</a>.)
+You can <a href="/downloads/TheRecord-s1e5-PaulGoracke.m4a">download the m4a file</a> or <a href="https://itunes.apple.com/us/podcast/the-record/id791861057">subscribe in iTunes</a>. (Or <a href="https://therecord.co/xml/rss.xml">subscribe to the podcast feed</a>.)
 
 <a href="https://twitter.com/pgor">Paul Goracke</a> is a senior staff engineer at <a href="http://blackpixel.com/">Black Pixel</a>, where he works on things he can’t talk about but that you’ve used. He’s also a former instructor at the <a href="http://www.pce.uw.edu/certificates/ios-mac-development.html">University of Washington’s Cocoa development program</a>, and has at times been the lead organizer of the <a href="http://seattlexcoders.org/">Seattle Xcoders</a>.
 

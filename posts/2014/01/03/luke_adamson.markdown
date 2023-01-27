@@ -10,7 +10,7 @@
 
 This episode was recorded 15 May 2013 live and in person at [The Omni Group’s](http://www.omnigroup.com/) lovely offices overlooking Lake Union in Seattle.
 
-You can <a href="http://therecord.co/downloads/TheRecord-s1e1-LukeAdamson.m4a">download the m4a file</a> or <a href="https://itunes.apple.com/us/podcast/the-record/id791861057">subscribe in iTunes</a> or <a href="http://therecord.co/xml/rss.xml">subscribe to the podcast feed</a>.
+You can <a href="/downloads/TheRecord-s1e1-LukeAdamson.m4a">download the m4a file</a> or <a href="https://itunes.apple.com/us/podcast/the-record/id791861057">subscribe in iTunes</a> or <a href="https://therecord.co/xml/rss.xml">subscribe to the podcast feed</a>.
 
 <a href="https://twitter.com/lukesadamson">Luke Adamson</a> is a founder of <a href="http://toyrockets.com/">Toy Rockets</a>. He’s a former instructor at the University of Washington’s <a href="http://www.pce.uw.edu/certificates/ios-mac-development.html">iOS and Mac certificate program</a> and a former developer at <a href="http://www.omnigroup.com/">The Omni Group</a> (where, among other things, he helped create OmniOutliner).
 

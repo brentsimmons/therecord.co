@@ -10,7 +10,7 @@
 
 This episode was recorded 16 May 2013 live and in person at [Omni’s](http://www.omnigroup.com/) lovely offices overlooking Lake Union in Seattle.
 
-You can <a href="http://therecord.co/downloads/TheRecord-s1e8-NatIrons.m4a">download the m4a file</a> or <a href="https://itunes.apple.com/us/podcast/the-record/id791861057">subscribe in iTunes</a>. (Or <a href="http://therecord.co/xml/rss.xml">subscribe to the podcast feed</a>.)
+You can <a href="/downloads/TheRecord-s1e8-NatIrons.m4a">download the m4a file</a> or <a href="https://itunes.apple.com/us/podcast/the-record/id791861057">subscribe in iTunes</a>. (Or <a href="https://therecord.co/xml/rss.xml">subscribe to the podcast feed</a>.)
 
 <a href="https://twitter.com/irons">Nat Irons</a> has worked at <a href="https://developer.apple.com/contact/">Apple Developer Relations</a>, as a WebObjects consultant, and as IT director at <a href="http://www.thestranger.com">The Stranger</a>. He’s now QA Manager at <a href="http://blackpixel.com">Black Pixel</a>. He once delivered pizza to The Far Side author Gary Larson.
 

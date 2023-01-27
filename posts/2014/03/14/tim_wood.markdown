@@ -10,7 +10,7 @@
 
 This episode was recorded 17 May 2013 live and in person at [Omni’s](http://www.omnigroup.com/) lovely offices overlooking Lake Union in Seattle.
 
-You can <a href="http://therecord.co/downloads/TheRecord-s1e6-TimWood.m4a">download the m4a file</a> or <a href="https://itunes.apple.com/us/podcast/the-record/id791861057">subscribe in iTunes</a>. (Or <a href="http://therecord.co/xml/rss.xml">subscribe to the podcast feed</a>.)
+You can <a href="/downloads/TheRecord-s1e6-TimWood.m4a">download the m4a file</a> or <a href="https://itunes.apple.com/us/podcast/the-record/id791861057">subscribe in iTunes</a>. (Or <a href="https://therecord.co/xml/rss.xml">subscribe to the podcast feed</a>.)
 
 <a href="https://twitter.com/tjw">Tim Wood</a>, CTO of <a href="https://www.omnigroup.com/">The Omni Group</a>, talks about how Omni got started and what it was like being a NeXT developer before the acquisition.
 

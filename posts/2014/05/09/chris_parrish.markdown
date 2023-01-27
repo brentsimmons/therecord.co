@@ -10,7 +10,7 @@
 
 This episode was recorded 6 May 2014 live and in person at Brent’s office in lovely, sunny Ballard.
 
-You can <a href="http://therecord.co/downloads/TheRecord-sp1e1-ChrisParrish.m4a">download the m4a file</a> or <a href="https://itunes.apple.com/us/podcast/the-record/id791861057">subscribe in iTunes</a>. (Or <a href="http://therecord.co/xml/rss.xml">subscribe to the podcast feed</a>.)
+You can <a href="/downloads/TheRecord-sp1e1-ChrisParrish.m4a">download the m4a file</a> or <a href="https://itunes.apple.com/us/podcast/the-record/id791861057">subscribe in iTunes</a>. (Or <a href="https://therecord.co/xml/rss.xml">subscribe to the podcast feed</a>.)
 
 <a href="https://twitter.com/twenty3">Chris</a> has worked at <a href="http://adobe.com/">Adobe</a> and as a founder of Rogue Sheep, which won an Apple Design Award for <a href="http://www.macworld.com/article/1140874/postage.html">Postage</a>. Chris’s new company is Aged & Distilled with <a href="http://kickingbear.com/blog/">Guy English</a> — which shipped <a href="http://aged-and-distilled.com/napkin/">Napkin</a>, a Mac app for visual collaboration. Chris is also the co-host of The Record. He lives on <a href="http://www.ci.bainbridge-isl.wa.us/">Bainbridge Island</a>, a quick ferry ride from Seattle.
 

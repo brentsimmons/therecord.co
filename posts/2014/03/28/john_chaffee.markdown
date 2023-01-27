@@ -10,7 +10,7 @@
 
 This episode was recorded 16 May 2013 live and in person at [Omni’s](http://www.omnigroup.com/) lovely offices overlooking Lake Union in Seattle. (Check out the <a href="http://www.omnigroup.com/blog/omnifocus-2-for-mac-resumes-testing-will-ship-in-june">OmniFocus 2 public beta</a>!)
 
-You can <a href="http://therecord.co/downloads/TheRecord-s1e7-JohnChaffee.m4a">download the m4a file</a> or <a href="https://itunes.apple.com/us/podcast/the-record/id791861057">subscribe in iTunes</a>. (Or <a href="http://therecord.co/xml/rss.xml">subscribe to the podcast feed</a>.)
+You can <a href="/downloads/TheRecord-s1e7-JohnChaffee.m4a">download the m4a file</a> or <a href="https://itunes.apple.com/us/podcast/the-record/id791861057">subscribe in iTunes</a>. (Or <a href="https://therecord.co/xml/rss.xml">subscribe to the podcast feed</a>.)
 
 <a href="https://twitter.com/ChaffeeJohn">John Chaffee</a> is a co-founder of <a href="http://busymac.com/">BusyMac</a> which makes the awesome <a href="http://www.busymac.com/busycal/">BusyCal</a>. John talks about being a Mac developer in the ’90s, what it was like at Now Software, and how he got tired of mobile and came back to the Mac.
 

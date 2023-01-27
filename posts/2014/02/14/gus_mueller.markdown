@@ -10,7 +10,7 @@
 
 This episode was recorded 17 May 2013 live and in person at [Omni’s](http://www.omnigroup.com/) lovely offices overlooking Lake Union in Seattle.
 
-You can <a href="http://therecord.co/downloads/TheRecord-s1e4-GusMueller.m4a">download the m4a file</a> or <a href="https://itunes.apple.com/us/podcast/the-record/id791861057">subscribe in iTunes</a>. (Or <a href="http://therecord.co/xml/rss.xml">subscribe to the podcast feed</a>.)
+You can <a href="/downloads/TheRecord-s1e4-GusMueller.m4a">download the m4a file</a> or <a href="https://itunes.apple.com/us/podcast/the-record/id791861057">subscribe in iTunes</a>. (Or <a href="https://therecord.co/xml/rss.xml">subscribe to the podcast feed</a>.)
 
 Gus Mueller, <a href="http://www.flyingmeat.com/">Flying Meat</a> founder, created VoodooPad (now at <a href="https://plausible.coop/voodoopad/">Plausible Labs</a>) and <a href="http://www.flyingmeat.com/acorn/">Acorn</a>, the image editor for humans. Gus is also responsible for open source software such as <a href="https://github.com/ccgus/fmdb">FMDB</a> and <a href="http://jstalk.org/">JSTalk</a>. 
 

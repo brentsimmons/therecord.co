@@ -10,7 +10,7 @@
 
 This episode was recorded 16 May 2013 live and in person at [Omni’s](http://www.omnigroup.com/) offices overlooking Lake Union in Seattle.
 
-You can <a href="http://therecord.co/downloads/TheRecord-s1e3-GregRobbins.m4a">download the m4a file</a> or <a href="https://itunes.apple.com/us/podcast/the-record/id791861057">subscribe in iTunes</a>. (Or <a href="http://therecord.co/xml/rss.xml">subscribe to the podcast feed</a>.)
+You can <a href="/downloads/TheRecord-s1e3-GregRobbins.m4a">download the m4a file</a> or <a href="https://itunes.apple.com/us/podcast/the-record/id791861057">subscribe in iTunes</a>. (Or <a href="https://therecord.co/xml/rss.xml">subscribe to the podcast feed</a>.)
 
 Greg Robbins is Graphing Calculator co-author (<a href="http://www.pacifict.com/Story/">a story you should already know about</a>, that we don’t go over again) and has done such diverse things as bringing translucency to the Mac OS Drag Manager (way back in the ’90s), and writing an open source <a href="http://googlemac.blogspot.com/2011/08/new-objective-c-library-for-new.html">Objective-C library for Google Data APIs</a>. You can follow <a href="https://twitter.com/grob">Greg on Twitter</a>.
 

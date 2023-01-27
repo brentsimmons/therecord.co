@@ -10,9 +10,9 @@
 
 This episode was recorded 26 May 2014 live and in person at Brent’s office in sunny, lovely Ballard.
 
-You can <a href="http://therecord.co/downloads/TheRecord-sp1e2-BrentSimmons.m4a">download the m4a file</a> or <a href="https://itunes.apple.com/us/podcast/the-record/id791861057">subscribe in iTunes</a>. (Or <a href="http://therecord.co/xml/rss.xml">subscribe to the podcast feed</a>.)
+You can <a href="/downloads/TheRecord-sp1e2-BrentSimmons.m4a">download the m4a file</a> or <a href="https://itunes.apple.com/us/podcast/the-record/id791861057">subscribe in iTunes</a>. (Or <a href="https://therecord.co/xml/rss.xml">subscribe to the podcast feed</a>.)
 
-<a href="http://inessential.com/">Brent</a> has worked at UserLand Software and NewsGator and as an indie at his company Ranchero Software. These days he’s one-third of Q Branch, where he writes <a href="http://vesperapp.co/appstore">Vesper</a>. He is also the co-host of this podcast.
+<a href="https://inessential.com/">Brent</a> has worked at UserLand Software and NewsGator and as an indie at his company Ranchero Software. These days he’s one-third of Q Branch, where he writes <a href="http://vesperapp.co/appstore">Vesper</a>. He is also the co-host of this podcast.
 
 <p class="sponsor">This episode is sponsored by <a href="https://itunes.apple.com/us/app/tagcaster/id662918542?mt=8">Tagcaster</a>. Tagcaster is not just another podcast client — it solves the age-old problem of <i>linking</i> to specific parts of a podcast. You can make clips — short audio excerpts — and share them and link to them. After all these years, that problem is finally solved.</p>
 

@@ -10,7 +10,7 @@
 
 This episode was recorded 22 May 2013 live and in person at [Adobe’s](http://www.adobe.com/) offices in Fremont in Seattle.
 
-You can <a href="http://therecord.co/downloads/TheRecord-s1e2-JohnNack.m4a">download the m4a file</a> or <a href="https://itunes.apple.com/us/podcast/the-record/id791861057">subscribe in iTunes</a>. (Or <a href="http://therecord.co/xml/rss.xml">subscribe to the podcast feed</a>.)
+You can <a href="/downloads/TheRecord-s1e2-JohnNack.m4a">download the m4a file</a> or <a href="https://itunes.apple.com/us/podcast/the-record/id791861057">subscribe in iTunes</a>. (Or <a href="https://therecord.co/xml/rss.xml">subscribe to the podcast feed</a>.)
 
 John Nack is Principal Product Manager, Adobe Digital Video. [He has a blog](http://blogs.adobe.com/jnack/) (definitely worth reading, especially if you use Photoshop) and is [@jnack](https://twitter.com/jnack) on Twitter.
 

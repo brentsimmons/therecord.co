@@ -10,7 +10,7 @@
 
 This episode was recorded 17 May 2013 live and in person at [Omni’s](http://www.omnigroup.com/) beautiful offices overlooking Lake Union in Seattle.
 
-You can <a href="http://therecord.co/downloads/TheRecord-s1e9-MikeLee.m4a">download the m4a file</a> or <a href="https://itunes.apple.com/us/podcast/the-record/id791861057">subscribe in iTunes</a>. (Or <a href="http://therecord.co/xml/rss.xml">subscribe to the podcast feed</a>.)
+You can <a href="/downloads/TheRecord-s1e9-MikeLee.m4a">download the m4a file</a> or <a href="https://itunes.apple.com/us/podcast/the-record/id791861057">subscribe in iTunes</a>. (Or <a href="https://therecord.co/xml/rss.xml">subscribe to the podcast feed</a>.)
 
 <a href="https://twitter.com/bmf">Mike Lee</a>, <a href="https://appsterdam.rs/">Appsterdam</a> founder, has worked at Alaska Airlines, <a href="http://delicious-monster.com/">Delicious Monster</a> (with Wil Shipley), Apple, and is now Chief Lemur at <a href="http://newlemurs.com/">New Lemurs</a>.
 
