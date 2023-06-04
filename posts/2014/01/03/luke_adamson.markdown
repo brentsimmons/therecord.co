@@ -22,7 +22,7 @@ Things we mention, in order of appearance (roughly):
 <li><a href="http://www.youtube.com/watch?v=3lYm0c7gYyU">Gophers</a></li>
 <li><a href="http://www.idaho.gov/">Idaho</a></li>
 <li><a href="http://en.wikipedia.org/wiki/Methamphetamine">Meth</a></li>
-<li><a href="http://en.wikipedia.org/wiki/Maze_War">Maze War
+<li><a href="http://en.wikipedia.org/wiki/Maze_War">Maze War</a></li>
 <li><a href="http://www.boisestate.edu/">Boise State U</a></li>
 <li><a href="https://www.google.com/search?q=nextstation&client=safari&rls=en&tbm=isch&tbo=u&source=univ&sa=X&ei=FTfGUqndKZLkoATOvoCAAg&ved=0CDQQsAQ&biw=1147&bih=1283">Nextstation</a></li>
 <li><a href="http://en.wikipedia.org/wiki/UUCP">UUCP</a></li>
